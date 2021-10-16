@@ -1,3 +1,3 @@
 # SAGE
-#### Now available on telegram! :D
+#### Now available on telegram! 😄
 
