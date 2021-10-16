@@ -12,8 +12,8 @@ def youtube_search(update, ctx):
    querystring = {"q":keyword}
 
    headers = {
-    'x-rapidapi-host': "youtube-search-results.p.rapidapi.com",
-    'x-rapidapi-key': "a7202c6505mshac4812d4e1434b3p1e7c3bjsn26341f464af9"
+    'x-rapidapi-host': "API HOST URL",
+    'x-rapidapi-key': "YOUR API KEY HERE"
        }
 
    response = requests.get( url, headers=headers, params=querystring)
