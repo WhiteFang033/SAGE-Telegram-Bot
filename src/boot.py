@@ -7,7 +7,7 @@ import telegram
 def boot():
 
 ##Bot_API
- updater = telegram.ext.Updater("2012559767:AAFgZY34So3YXFHSVOjOrbes7TXtIDWkchE", use_context= True)
+ updater = telegram.ext.Updater("BOT TOKEN HERE", use_context= True)
  dis = updater.dispatcher
 
 #Command_handelers
