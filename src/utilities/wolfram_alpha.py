@@ -1,7 +1,7 @@
 from telegram.ext import *
 import requests
 
-app_id ="VUVX4Q-47T2W8PVHV"
+app_id ="API KEY HERE"
 
 def wolf(update, ctx):
 
